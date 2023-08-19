@@ -1,4 +1,4 @@
-## 👋 Olá, mundo! Eu sou Victor, um entusiasta da tecnologia com uma paixão ardente pelo mundo da Análise e Desenvolvimento de Sistemas. Com uma sólida formação em Técnico em Informática e experiência como Administrador de Banco de Dados, estou pronto para mergulhar de cabeça no excitante universo da tecnologia.
+## 👋 Hello, world! Eu sou Victor, um entusiasta da tecnologia com uma paixão ardente pelo mundo da Análise e Desenvolvimento de Sistemas. Com uma sólida formação em Técnico em Informática e experiência como Administrador de Banco de Dados, estou pronto para mergulhar de cabeça no excitante universo da tecnologia.
 
 # 🎓 Formação e Experiência:
 - 🎓 Bacharel em Análise e Desenvolvimento de Sistemas: Em breve, serei um graduado nessa emocionante disciplina, equipado com um amplo conhecimento de desenvolvimento de software, design de sistemas e muito mais.
